@@ -1,4 +1,4 @@
-#  Automated Audit Report: Good Entry (Code4rena)
+#  Automated Audit Report
 ## Info  
 This bot is designed to streamline the auditing process by identifying basic issues in contracts allowing auditors to focus their attention on digging deeper into the codebase and uncovering more complex issues. 
   
